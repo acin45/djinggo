@@ -197,7 +197,7 @@ https://cdn.streamo.cfd/live/channel/USA/CNN.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="BloombergTV.id" tvg-name="Bloomberg TV" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Bloomberg-Logo.png" group-title="News", Bloomberg
+#EXTINF:-1 tvg-id="BloombergTV.id" tvg-name="Bloomberg TV" tvg-logo="https://blackbridgesports.com/wp-content/uploads/2023/02/bloomberg-logo-white.png" group-title="News", Bloomberg
 https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd
 
 
