@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="https://iptvsystem.my.id/epg" refresh="3600"
 
-https://drive.google.com/file/d/1y0Cberqb9iXZe2RPMMI_YZlZz12QLmit/view?usp=drivesdk
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Acin Support",  Donasi QRIS Mama
 https://drive.google.com/uc?export=download&id=1y0Cberqb9iXZe2RPMMI_YZlZz12QLmit
 
