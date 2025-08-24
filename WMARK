@@ -904,6 +904,15 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 #https://icecream.jasoncreak8.workers.dev/http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
 http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1163984
 
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" group-title="Sports" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",TNT Sport 2
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175186&extension=ts
+
+
+
 ##############PREMIER LEAGUE###########
 ###################################
 
@@ -936,6 +945,7 @@ http://goldenpro.xyz:80/VUVZ89R/4EXX322/1100810
 
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",live event 10
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1100811
+
 
 
 
