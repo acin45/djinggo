@@ -217,9 +217,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 
-
-
-## ENTERTAINMENT SECTION
+#######$#$#$####$$$$$$$$
+$$$$$$$$$$$###########$
+## ENTERTAINMENT SECTION##############
+#$$$$$$
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/kgHLxbz/FLIK.jpg" group-title="Entertainment", FLIK
@@ -273,19 +274,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/in
 https://d2gr3zenqo3tg4.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
 
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
-#EXTINF:-1 tvg-id="HITS" tvg-name="HITS" group-title="Entertainment" tvg-logo="https://iptvsystem.my.id/img/hits2.png",HITS
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
-#EXTINF:-1 tvg-id="HITSNow.id" tvg-name="HITS NOW" tvg-logo="https://cdn.streamo.web.id/live/images/HITSNOW.png" group-title="Entertainment", HITS Now
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
@@ -385,12 +373,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
-#EXTINF:-1 tvg-id="HITSMovies" tvg-name="HITSMovies" group-title="Movies" tvg-logo="https://iptvsystem.my.id/img/hits_movies2.png",HITS Movies
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 
 
 #EXTINF:-1 group-title="Movies" tvg-id="KIX.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png",KIX
@@ -963,6 +945,229 @@ http://goldenpro.xyz:80/VUVZ89R/4EXX322/1100810
 #EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",live event 10
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1100811
 
+
+
+CCTV BALIKPAPAN
+
+
+
+
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",STADION BATAKAN FIX
+http://103.144.82.251/camera/DEPAN_STADION_BATAKAN_KAMERA_FIX.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",DEPAN STADION BATAKAN
+http://103.144.82.251/camera/DEPAN_STADION_BATAKAN_KAMERA_FIX.m3u8
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",DEPAN STADION PTZ
+http://103.144.82.251/camera/DEPAN_STADION_BATAKAN.m3u8
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",SP PSAR BUTON
+http://103.144.82.251/camera/SP_PASAR_BUTON_PTZ.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",PASAR BUTON FIX
+http://103.144.82.251/camera/PASAR_BUTON_FIX.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",SP STRAAT
+http://103.144.82.251/camera/SP_STRAAT_3_FIX.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",SP STRAAT 1
+http://103.144.82.251/camera/SP_STRAAT_1.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",SPT PERTAMINA PTZ
+http://103.144.82.251/camera/SP_PERTAMINA_PTZ.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",SP PERTAMINA FIX
+http://103.144.82.251/camera/SP_PERTAMINA_FIX_1.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",SP PERTAMINA FIX 2
+http://103.144.82.251/camera/SP_PERTAMINA_FIX_2.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",SPT PERTAMINA FIX 3
+http://103.144.82.251/camera/SP_PERTAMINA_FIX_3.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",SP GRANCITY
+http://103.144.82.251/camera/SP_GRANDCITY_PTZ.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",GRANCITY FIX
+http://103.144.82.251/camera/GRANDCITY_FIX.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",KP TIMUR
+http://103.144.82.251/camera/KP_TIMUR_PTZ.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",KP TIMUR FIX
+http://103.144.82.251/camera/KP_TIMUR_FIX.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",SP KARGO BANDARA
+http://103.144.82.251/camera/SP_KARGO_BANDARA.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",SP KARGO BANDARA FIX
+http://103.144.82.251/camera/SP_KARGO_BANDARA_KAMERA_FIX.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",DEPAN BANDARA ARAH TUGU
+http://103.144.82.251/camera/DEPAN_BANDARA_ARAH_TUGU_KB.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",PERUM REGENCY FIX
+http://103.144.82.251/camera/PERUM_REGENCY_FIX_1.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",PERUM REGENCY FIX 2
+http://103.144.82.251/camera/PERUM_DEPAN_REGENCY_FIX_2.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",CAMERA PLAZA
+http://103.144.82.251/camera/plaza.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",PLAZA FIX 2
+http://103.144.82.251/camera/PLAZA_FIX2.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",MARKONI
+http://103.144.82.251/camera/markoni.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",MARKONI FIX
+http://103.144.82.251/camera/MARKONI_FIX.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",MARKONI FIX2
+http://103.144.82.251/camera/SP_MARKONI_FIX_2.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",LE GRANDEUT
+http://103.144.82.251/camera/le_grandeur.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",DAMAI
+http://103.144.82.251/camera/damai.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",DAMAI FIX
+http://103.144.82.251/camera/DAMAI_FIX.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",DAMAI FIX 2
+http://103.144.82.251/camera/DAMAI_FIX_2.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",GN PASIR
+http://103.144.82.251/camera/gn_pasir.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",SP GN PASIR FIX
+http://103.144.82.251/camera/SP_GN_PASIR_FIX.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",SP GN MALANG
+http://103.144.82.251/camera/gn_malang.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",SP GN MALANG FIX
+http://103.144.82.251/camera/SP_GUNUNG_MALANG_FIX.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",SP CAMERA RAPAAK
+http://103.144.82.251/camera/rapak.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",RAPAK FIX 3
+http://103.144.82.251/camera/RAPAK_FIX3.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",KORPRI FIX 1
+http://103.144.82.251/camera/KORPRI_FIX1.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",CAMERA BPN
+http://103.144.82.251/camera/bpn_ptz.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",BNB FIX
+http://103.144.82.251/camera/bnb_fix1.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",BNF FIX 2
+http://103.144.82.251/camera/bnb_fix2.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",BNB FIX 4
+http://103.144.82.251/camera/bnb_fix4.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",LAB COAL
+http://103.144.82.251/camera/lab_coal.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",LAN COAL FIX
+http://103.144.82.251/camera/LAB_COAL_FIX.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",TUGU KB
+http://103.144.82.251/camera/tugu_kb.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",SP PUSKIP
+http://103.144.82.251/camera/puskip.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",KTL 1 RAHUYU
+http://103.144.82.251/camera/KTL_RUHUI_RAHAYU1.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",KTL 2 RAHUYU
+http://103.144.82.251/camera/KTL_RUHUI_RAHAYU2.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",KTL 3 RAHUYU
+http://103.144.82.251/camera/KTL_RUHUI_RAHAYU3.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",KTL 1 SUDIRMAN
+http://103.144.82.251/camera/KTL_1_SUDIRMAN.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",KTL 2 SUDIRMAN PTZ
+http://103.144.82.251/camera/KTL_2_SUDIRMAN.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",KTL 2 SUDIRMAN FIX
+http://103.144.82.251/camera/KTL_SUDIRMAN_2_FIX.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",KTL SUDIRMAN 3 PTZ
+http://103.144.82.251/camera/KTL_3_SUDIRMAN.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",KTL SUDIRMAN 4 PTZ
+http://103.144.82.251/camera/KTL_4_SUDIRMAN.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",KTL DEPAN DPRD
+http://103.144.82.251/camera/KTL_DEPAN_DPRD.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",DEPAN AURI PTZ
+http://103.144.82.251/camera/DEPAN_AURI_KAMERA_PTZ.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",SP BELLER PTZ
+http://103.144.82.251/camera/SP_BELLER_PTZ.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",BELLER FIX
+http://103.144.82.251/camera/BELLER_FIX.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",DEPAN PASAR SEPINGGAN PTZ
+http://103.144.82.251/camera/DEPAN_PASAR_SEPINGGAN.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",DEPAN PASAR SEPINGGAN FIX
+http://103.144.82.251/camera/DEPAN_PASAR_SEPINGGAN_KAMERA_FIX.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",SP WIKA
+http://103.144.82.251/camera/SP_WIKA.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",SP WIKA FIX
+http://103.144.82.251/camera/SP_WIKA_FIX.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",SP BATU AMPAR
+http://103.144.82.251/camera/SP_BATU_AMPAR.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",SP PATTIMURA 1
+http://103.144.82.251/camera/SP_PATIMURA_1.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",SP PATTIMURA 2
+http://103.144.82.251/camera/SP_PATIMURA_2.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",AP PERUMNAS
+http://103.144.82.251/camera/SP_PERUMNAS.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",TANJAKAN MAZDA
+http://103.144.82.251/camera/TANJAKAN_MAZDA.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",SP KARINGAU
+http://103.144.82.251/camera/SP_KARIANGAU.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",KARINGAU FIX
+http://103.144.82.251/camera/KARIANGAU_FIX.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",KEBUN SAYUR FIX 1
+http://103.144.82.251/camera/SP_KEBUN_SAYUR_FIX_1.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",KEBUN SAYUR FIX 2
+http://103.144.82.251/camera/SP_KEBUN_SAYUR_FIX_2.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",SP GRANDCITY
+http://103.144.82.251/camera/SP_GRANDCITY_PTZ.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BALIKPAPAN",SP GRANCITY FIX
+http://103.144.82.251/camera/GRANDCITY_FIX.m3u8
 
 
 
