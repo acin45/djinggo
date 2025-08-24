@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://iptvsystem.my.id/epg" refresh="3600"
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Acin Support",  Donasi QRIS Mama
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/acin45/djinggo/main/icho.png" group-title="Acin Support",  Donasi QRIS Mama
 https://drive.google.com/uc?export=download&id=1y0Cberqb9iXZe2RPMMI_YZlZz12QLmit
 
 #$$$$$$$LOCAL SECTION
